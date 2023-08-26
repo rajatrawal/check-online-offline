@@ -1,7 +1,7 @@
 {
   "name": "check-online-offline",
   "version": "1.0.3",
-  "description": "A react hook to check network status with advanced functionality of callback functions.",
+  "description": "Elevate your React applications with the useCheckOnlineOffline hook, streamlining network status monitoring. Seamlessly adapt to changing connectivity through intuitive integration and advanced callback functions.",
   "main": "index.js",
   "repository": {
     "type": "git",
